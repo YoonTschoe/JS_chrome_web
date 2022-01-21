@@ -3,5 +3,16 @@
 }
 
 body {
-  color: blue;
+  color: white;
+}
+
+button {
+  background-color: transparent;
+  margin-left: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
 }
